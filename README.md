@@ -19,5 +19,5 @@ ssh-keygen -f ~/.ssh/id_rsa -t rsa -N ''
 cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 ```
 
-3. Now ssh to public ip address to make sure we have passwordless access. 
+3. Now ssh to public ip address of the machine to make sure we have passwordless access. 
 
