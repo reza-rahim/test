@@ -30,7 +30,7 @@ git clone https://github.com/gshipley/installcentos.git
 
 ```
 
-5. Set the env varaible
+5. Set the env varaible. Replace the public ip.
 
 ```bash
 export DOMAIN= {public Ip}.nip.io
