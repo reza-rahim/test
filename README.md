@@ -25,7 +25,9 @@ cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 
 ```bash
 ssh {public ip }
+exit
 ssh {private ip }
+exit
 ```
 
 4. Clone the repo
