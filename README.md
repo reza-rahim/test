@@ -13,5 +13,7 @@ Disk | 30 GB
 
 ```bash 
 sudo su
+sed -i 's/PermitRootLogin no/PermitRootLogin yes/' /etc/ssh/sshd_config
+systemctl restart sshd
 
 ```
