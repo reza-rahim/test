@@ -4,8 +4,8 @@
   
 Requirement  | Specification  
 ------------ | -------------
-CPU | 4
-Memory | 15 GB
+CPU | 8
+Memory | 64 GB
 OS | Cent OS 7
 Disk | 30 GB
 
