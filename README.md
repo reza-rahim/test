@@ -30,7 +30,7 @@ git clone https://github.com/gshipley/installcentos.git
 
 ```
 
-5. Set the env varaible. Replace the public ip.
+5. Set the env varaible. Replace the public ip. Accepts all the defaults from install-openshift.sh.
 
 ```bash
 cd installcentos/
@@ -41,3 +41,6 @@ export PASSWORD=admin
 
 ./install-openshift.sh
 ```
+
+
+
