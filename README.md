@@ -33,7 +33,11 @@ git clone https://github.com/gshipley/installcentos.git
 5. Set the env varaible. Replace the public ip.
 
 ```bash
+cd installcentos/
+
 export DOMAIN= {public Ip}.nip.io
 export USERNAME=admin
 export PASSWORD=admin
+
+./install-openshift.sh
 ```
