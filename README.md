@@ -9,4 +9,9 @@ Memory | 15 GB
 OS | Cent OS 7
 Disk | 30 GB
 
-2. 
+2. ssh to the machine
+
+```bash 
+sudo su
+
+```
