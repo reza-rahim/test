@@ -42,7 +42,7 @@ git clone https://github.com/gshipley/installcentos.git
 ```bash
 cd installcentos/
 
-export DOMAIN= {public Ip}.nip.io
+export DOMAIN={public Ip}.nip.io
 export USERNAME=admin
 export PASSWORD=admin
 
