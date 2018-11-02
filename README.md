@@ -30,3 +30,10 @@ git clone https://github.com/gshipley/installcentos.git
 
 ```
 
+5. Set the env varaible
+
+```bash
+export DOMAIN= {public Ip}.nip.io
+export USERNAME=admin
+export PASSWORD=admin
+```
