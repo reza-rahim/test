@@ -6,8 +6,11 @@
    3. Cent OS 7
    4. 30 GB disk
 
-
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Requirement  | Specification  
+------------ | -------------
+CPU | 4
+Memory | 15 GB
+OS | Cent OS 7
+Disk | 30 GB
 
 2. 
