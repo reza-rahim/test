@@ -23,7 +23,7 @@ cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 
 3. Now ssh to public ip address of the machine to make sure we have passwordless access. 
 
-4. Clone the 
+4. Clone the repo
 
 ```bash
 git clone https://github.com/gshipley/installcentos.git
